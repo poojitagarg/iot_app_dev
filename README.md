@@ -1,6 +1,5 @@
 # Build mobile applications for IoT devices using React Native, Firebase and Google Sheets
-
-This is the React-Native App code. 
+Basic React-Native Application for IoT devices, demostrating the connections between Firebase (real-time backend), React-Native (cross platform app development) and, Google Sheets (cloud database). 
 
 ## Prequisites
 * NPM
