@@ -6,11 +6,11 @@ import FormData from "form-data";
 
 // firebase config
 const firebaseConfig = {
-  apiKey: "AIzaSyB9dD1Ocrlmu8sOB86SA1x-txXL_EMpsrc",
-  authDomain: "iot-app-dev-b9974.firebaseapp.com",
-  databaseURL: "https://iot-app-dev-b9974-default-rtdb.firebaseio.com",
-  projectId:"iot-app-dev-b9974",
-  storageBucket: "iot-app-dev-b9974.appspot.com",
+  apiKey: "XXX",
+  authDomain: "XXX",
+  databaseURL: "XXX",
+  projectId:"XXX",
+  storageBucket: "XXX",
 };
 // firebase initialization
 firebase.initializeApp(firebaseConfig);
