@@ -53,7 +53,7 @@ class MyApp extends Component {
           bodyData.append("hum", this.state.humidity);
             // fetching google apps script URL
           fetch(
-            "https://script.google.com/macros/s/AKfycbxV-Asu4D0qYR1_ViYmNzYKud41nVBC4kE58t_Z0RX2YTBP3DP5ypIQa8j8sjoGgWec/exec",
+            "XXX",
 
             {
               method: "POST",
