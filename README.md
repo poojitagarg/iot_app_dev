@@ -10,3 +10,7 @@ Basic React-Native Application for IoT devices, demostrating the connections bet
 * use ```yarn install``` to install all dependencies
 * use ```expo start``` to run the app
 
+## Tutorial
+For complete tutorial please read this blog https://javascript.plainenglish.io/develop-cross-platform-mobile-apps-for-iot-devices-an-easy-starters-guide-bb9c01da9d87
+
+
